@@ -1,0 +1,7 @@
+dns_update_options:
+  acme_server: "https://acme-staging-v02.api.letsencrypt.org/directory"
+  master: '198.51.100.18'
+  key_name: 'hmac-sha256:keyname'
+  secret:  'A7thedmnicetPJsecretIRbvaluecQ7youiRsuseWtforTgthePUDTSIG4valuef'
+  print_only: false
+

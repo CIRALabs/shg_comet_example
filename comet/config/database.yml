@@ -1,0 +1,9 @@
+production:
+  adapter: postgresql
+  database: shg_comet_staging
+  username: shg_comet_staging
+  password: PASSWORDHERE
+  encoding: utf8
+  host: postgres
+  reconnect: true
+

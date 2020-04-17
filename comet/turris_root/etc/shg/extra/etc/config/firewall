@@ -1,0 +1,10 @@
+config rule
+        option enabled '1'
+        option target 'ACCEPT'
+        option proto 'tcp'
+        option dest_port '22'
+        option name 'mgmt22'
+        option family 'ipv6'
+        option src_ip '2607:f0b0:f::/56'
+        option src '*'
+
